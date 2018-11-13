@@ -23,8 +23,8 @@
 * Asynchronous JavaScript
   * [https://in.udacity.com/course/asynchronous-javascript-requests--ud109](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
 * jQuery + DOM
-  * [https://in.udacity.com/course/javascript-and-the-dom--ud117](https://in.udacity.com/course/javascript-and-the-dom--ud117
-* Single Page Application with Ajax)
+  * [https://in.udacity.com/course/javascript-and-the-dom--ud117](https://in.udacity.com/course/javascript-and-the-dom--ud117)
+* Single Page Application with Ajax
 * Advanced Promises
   * [https://in.udacity.com/course/javascript-promises--ud898](https://in.udacity.com/course/javascript-promises--ud898)
 * Intro to ReactJS
@@ -40,14 +40,12 @@
   * [https://in.udacity.com/course/introduction-to-python--ud1110-india](https://in.udacity.com/course/introduction-to-python--ud1110-india)
   * [https://in.udacity.com/course/python-foundation-nanodegree--nd002-inpy](https://in.udacity.com/course/python-foundation-nanodegree--nd002-inpy)
 * Pip, virtualenv, pypi
-  * 
 * Flask
   * [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * MVC 
 * Databases & SQL
   * [https://in.udacity.com/course/intro-to-relational-databases--ud197](https://in.udacity.com/course/intro-to-relational-databases--ud197)
   * [https://in.udacity.com/course/database-systems-concepts-design--ud150](https://in.udacity.com/course/database-systems-concepts-design--ud150)
-  * 
 * Object Relational Mappers
   * [https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2](https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2)
 * Sessions, Authentication, Cookies
