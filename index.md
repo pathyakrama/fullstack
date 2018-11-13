@@ -2,7 +2,7 @@
 * Comp Sci. Fundamentals - OS and Networking
 * Internet (TCP, HTTP, DNS, PKI)
 * Basic Data Structures & Algorithms
-  * https://in.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+  * [https://in.udacity.com/course/data-structures-and-algorithms-in-python--ud513]
 * Git/github.com and collaboration, opensource
   * https://in.udacity.com/course/version-control-with-git--ud123
 * Intro to stackoverflow, quora, slack
