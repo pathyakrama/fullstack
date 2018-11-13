@@ -13,8 +13,8 @@
 
 ### FRONTEND
 * HTML/CSS/jQuery
-  * [https://in.udacity.com/course/intro-to-html-and-css--ud304](https://in.udacity.com/course/intro-to-html-and-css--ud304
-  * https://in.udacity.com/course/intro-to-jquery--ud245)
+  * [https://in.udacity.com/course/intro-to-html-and-css--ud304](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+  * [https://in.udacity.com/course/intro-to-jquery--ud245](https://in.udacity.com/course/intro-to-jquery--ud245)
   * [https://prep.hackreactor.com/p/hack-reactor-prep](https://prep.hackreactor.com/p/hack-reactor-prep)
 * OO JavaScript, Inheritance & Prototypes
   * [https://in.udacity.com/course/intro-to-javascript--ud803-india](https://in.udacity.com/course/intro-to-javascript--ud803-india)
